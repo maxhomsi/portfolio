@@ -187,7 +187,7 @@ body > .container-fluid {
 #portfolio {
   background-color: #80c97e; }
   #portfolio h2 {
-    padding-bottom: 1.25em; }
+    padding-bottom: 1.00em; }
 
 @media screen and (min-width: 768px) {
   .portfolio-projects {
@@ -215,7 +215,7 @@ body > .container-fluid {
     color: #f0f0e6; }
 .portfolio-projects--image {
   margin-bottom: 1.875em;
-  padding-top: 5%; }
+  padding-top: 3%; }
 
 #contact {
   background-color: #07374a; }
@@ -257,5 +257,3 @@ body > .container-fluid {
 
 .back-to-top {
   display: none; }
-  .back-to-top.visible 
- 
