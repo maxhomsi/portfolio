@@ -42,7 +42,7 @@ img {
 body {
   height: 100%;
   font-family: "Comfortaa", Helvetica, Arial, sans-serif;
-  background-color: #21a48f;
+  background-color: #2582b7;
   /* Margin bottom by footer height */
   margin-bottom: 60px; }
 
@@ -56,7 +56,10 @@ h5 {
 
 p {
   font-family: "Quattrocento", sans-serif;
-  color: #f0f0e6; }
+  color: #555503; }
+  .text-center {
+color: rgb(209, 214, 215);
+  }
 
 body > .container-fluid {
   padding: 60px 15px 0; }
@@ -89,8 +92,8 @@ body > .container-fluid {
   font-weight: 500;
   font-size: 1em;
   text-transform: lowercase;
-  margin: 10px 5px 5px 5px;
-  border-radius: 5px; }
+  margin: 6px 5px 5px 5px;
+  border-radius: 50px; }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active, .navbar-default .navbar-nav > li > a:focus {
   color: #f0f0e6;
   border: 1px solid #f0f0e6; }
@@ -129,7 +132,7 @@ body > .container-fluid {
     padding: 15% 0 10% 0;
     height: 100vh;
     display: flex;
-    background-color: #25b79f; }
+    background-color: #2582b7; }
   .cover.bottom {
     padding: 10% 0 10% 0; }
 
@@ -148,7 +151,7 @@ body > .container-fluid {
 #about {
   background-color: #07374a; }
   #about h2 {
-    color: #25b79f; }
+    color: #11345e; }
 
 .profile-img {
   margin-bottom: 15px;
@@ -182,7 +185,7 @@ body > .container-fluid {
       color: #25b79f; }
 
 #portfolio {
-  background-color: #25b79f; }
+  background-color: #80c97e; }
   #portfolio h2 {
     padding-bottom: 1.25em; }
 
@@ -254,5 +257,5 @@ body > .container-fluid {
 
 .back-to-top {
   display: none; }
-  .back-to-top.visible {
-    display: block; }
+  .back-to-top.visible 
+ 
